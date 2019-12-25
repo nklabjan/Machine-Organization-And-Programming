@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Nick_Klabjan/Documents/Classes/MachineOrganization&Programming(CS354)/homework7/main.c
+stdio.h
+-
+string.h
+-
+

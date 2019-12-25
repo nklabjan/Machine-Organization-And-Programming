@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Nick_Klabjan/Documents/Classes/MachineOrganization&Programming(CS354)/program6/sendsig.c
+signal.h
+-
+stdio.h
+-
+sys/types.h
+-
+unistd.h
+-
+stdlib.h
+-
+string.h
+-
+

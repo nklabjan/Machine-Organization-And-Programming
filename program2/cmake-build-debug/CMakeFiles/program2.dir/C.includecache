@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Nick_Klabjan/Documents/Classes/MachineOrganization&Programming(CS354)/program2/verify_hetero.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
